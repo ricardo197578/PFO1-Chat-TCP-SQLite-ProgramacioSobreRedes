@@ -1,0 +1,20 @@
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Configuración local del editor
+.vscode/
+
+# Base de datos local
+chat.db
+
+# Archivos temporales de SQLite
+*.db-journal
+*.db-wal
+*.db-shm
