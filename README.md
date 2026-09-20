@@ -30,14 +30,16 @@ No es necesario instalar dependencias externas.
 
 ## 3. Estructura del proyecto
 
-PFO1_Chat_TCP_SQLite/
-|
-|-- servidor.py
-|-- cliente.py
-|-- database.py
-|-- ver_mensajes.py
-|-- chat.db
-|-- README.md
+```text
+Chat_Cliente_Servidor/
+│
+├── servidor.py
+├── cliente.py
+├── database.py
+├── ver_mensajes.py
+├── README.md
+└── .gitignore
+```
 
 Descripción de los archivos:
 
